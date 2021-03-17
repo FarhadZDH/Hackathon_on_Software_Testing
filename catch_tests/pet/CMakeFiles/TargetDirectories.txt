@@ -1,0 +1,3 @@
+/home/mohsen/workshop/Hackathon_on_Software_Testing/catch_tests/pet/CMakeFiles/rebuild_cache.dir
+/home/mohsen/workshop/Hackathon_on_Software_Testing/catch_tests/pet/CMakeFiles/Catch2.dir
+/home/mohsen/workshop/Hackathon_on_Software_Testing/catch_tests/pet/CMakeFiles/edit_cache.dir
